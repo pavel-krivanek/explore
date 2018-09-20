@@ -41,6 +41,7 @@ items:
  - PowerShell/PowerShell
  - rakudo/rakudo
  - dotnet/csharplang
+ - pharo-project/pharo
 display_name: Programming languages
 created_by: leereilly
 ---
